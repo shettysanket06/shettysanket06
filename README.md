@@ -1,68 +1,70 @@
-# Hi, I'm Sanket Shetty 
+# Hi, I'm Sanket Shetty 👋
 
 **BSc IT Student | Aspiring SOC Analyst | Defensive Security & Threat Intelligence**
 
-I'm a third-year Information Technology student building practical cybersecurity skills with a focus on security operations, network analysis, incident investigation, and threat intelligence. I document my academic projects and hands-on lab activities while continuing to strengthen my technical foundations.
+I'm a third-year Information Technology student building practical skills in defensive cybersecurity. My current focus is endpoint investigation, Windows security telemetry, network analysis, and incident-response fundamentals.
 
-- Pursuing **BSc Information Technology** at **S.M. Shetty College of Science, Commerce and Management Studies**
-- Career goal: **SOC Analyst → Threat Intelligence**
-- **CompTIA Security+ (SY0-701)** — currently preparing
-- Practising with Windows, Ubuntu, Kali Linux, networking fundamentals, and Wireshark
-- Additional background in **MERN and MEAN stack development**
+I learn by building controlled labs, investigating logs and events, documenting findings, and stating clearly what the available evidence does—and does not—prove.
 
-## Featured Projects
+- 🎯 **Career direction:** SOC Analyst → Threat Intelligence
+- 🎓 **Education:** BSc Information Technology, S.M. Shetty College of Science, Commerce and Management Studies
+- 📘 **Certification:** CompTIA Security+ (SY0-701) — preparing
+- 🤝 **Open to:** Cybersecurity internships and OJT opportunities
 
-### [CyberShield — SOC Threat Intelligence & Incident Response Management Portal](https://github.com/shettysanket06/cybershield-soc-portal)
+## Featured work
 
-An academic research project and local defensive-security learning prototype that demonstrates a simplified SOC workflow. It brings together security-event logging, simulated detection, alert review, investigation notes, evidence recording, remediation, verification, and incident closure.
+### 1. [Windows Endpoint Investigation & Threat Hunting](https://github.com/shettysanket06/windows-endpoint-investigation)
 
-**Technologies:** Python, Flask, HTML, CSS, JavaScript, SQLite, and optional MongoDB components.
+A hands-on Windows investigation lab using Sysmon, PowerShell, Windows Security logs, and Task Scheduler.
 
-*Scope:* CyberShield is an academic demonstration environment for local use. It is not a production SIEM, SOAR platform, WAF, or enterprise security system.
+- Correlated process creation and termination events using Sysmon.
+- Enabled and investigated PowerShell Script Block Logging (Event ID 4104).
+- Investigated scheduled-task creation, execution, and deletion.
+- Analysed failed logons and reviewed suspicious-looking command-line indicators.
+- Documented evidence, false positives, attribution gaps, and project limitations.
 
-### [Cybersecurity Learning Log](https://github.com/shettysanket06/cybersecurity-learning-log)
+**Focus:** Windows event analysis · Sysmon · PowerShell · Endpoint investigation
 
-A collection of documented cybersecurity labs and practical learning activities. Current write-ups include:
+### 2. [CyberShield — SOC Threat Intelligence & Incident Response Portal](https://github.com/shettysanket06/cybershield-soc-portal)
 
-- **HTTP Traffic Investigation:** Examining HTTP requests and understanding credential visibility in plaintext traffic using Wireshark.
-- **TCP SYN Scan Analysis:** Reviewing Nmap SYN-scan activity and analysing related network traffic using Wireshark.
-- **ARP Spoofing Detection:** Comparing normal and manipulated IP-to-MAC mappings and investigating packet-level indicators of a simulated MITM scenario in an isolated VMware lab.
+An academic research project and local defensive-security prototype demonstrating a simplified SOC workflow: event logging, simulated detection, alert review, incident investigation, remediation, verification, and closure.
 
-These are learning exercises performed in controlled lab environments, not professional SOC engagements.
+**Stack:** Python · Flask · SQLite · HTML · CSS · JavaScript
 
-## Technical Skills
+*This is a controlled academic prototype—not a production SIEM, SOAR platform, or enterprise security system.*
 
-| Area | Skills |
+### 3. [Cybersecurity Learning Log](https://github.com/shettysanket06/cybersecurity-learning-log)
+
+Documented practical exercises covering HTTP traffic and credential visibility, TCP SYN scan analysis, and ARP spoofing detection in controlled lab environments.
+
+**Tools:** Wireshark · Nmap · Kali Linux · Windows
+
+## Technical toolkit
+
+| Area | Tools and knowledge |
 |---|---|
-| Operating Systems | Windows basics, Ubuntu Linux, Kali Linux |
-| Networking & Analysis | Networking fundamentals, TCP/IP basics, packet analysis, Wireshark |
-| Cybersecurity | Security fundamentals, network reconnaissance, ARP analysis, incident-response concepts |
-| Programming & Web | Python, Flask, JavaScript, HTML, CSS |
-| Web Development | MERN stack development, MEAN stack development |
-| Tools & Platforms | Git, GitHub, VMware, SQLite, MongoDB |
+| Endpoint investigation | Windows Event Logs, Sysmon, PowerShell, Task Scheduler |
+| Network analysis | Wireshark, TCP/IP fundamentals, Nmap, packet analysis |
+| Operating systems | Windows, Ubuntu Linux, Kali Linux |
+| Security foundations | Security fundamentals, log analysis, reconnaissance, incident-response concepts |
+| Programming and web | Python, Flask, JavaScript, HTML, CSS |
+| Development and workflow | Git, GitHub, SQLite, MongoDB, VMware; MERN/MEAN stack development |
 
-*Skills reflect my current academic and practical exposure. I continue to build depth through hands-on exercises and documented projects.*
+*This reflects my current learning and project experience; I am continuing to develop depth through practical work.*
 
-## Certification
+## Currently learning
 
-- **CompTIA Security+ (SY0-701)** — Preparing
-
-## Current Learning Focus
-
-- SIEM fundamentals and security-log analysis
-- Windows event logging and endpoint telemetry
-- Wazuh-based security monitoring
+- SIEM concepts and security monitoring with Wazuh
 - Detection engineering and Sigma rules
-- KQL and threat-hunting fundamentals
-- Phishing triage and threat intelligence
-
-I plan to add dedicated repositories as I complete and validate further hands-on projects.
+- Threat hunting and Windows endpoint telemetry
+- Phishing analysis and threat intelligence
+- CompTIA Security+ SY0-701 objectives
 
 ## Connect
 
-- **LinkedIn:** [linkedin.com/in/sanket-shetty-467008329](https://www.linkedin.com/in/sanket-shetty-467008329)
+- **LinkedIn:** [Sanket Shetty](https://www.linkedin.com/in/sanket-shetty-467008329/)
 - **GitHub:** [github.com/shettysanket06](https://github.com/shettysanket06)
 
 ---
 
-*I use this profile to document what I build, test, and learn as I work towards an entry-level role in security operations.*
+*I use this profile to document practical work, technical progress, and lessons learned as I work towards a career in security operations.*
