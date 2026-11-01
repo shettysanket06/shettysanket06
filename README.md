@@ -1,4 +1,4 @@
-# Hi, I'm Sanket Shetty 👋
+# Hi, I'm Sanket Shetty 
 
 **BSc IT Student | Aspiring SOC Analyst | Defensive Security & Threat Intelligence**
 
@@ -6,10 +6,10 @@ I'm a third-year Information Technology student building practical skills in def
 
 I learn by building controlled labs, investigating logs and events, documenting findings, and stating clearly what the available evidence does—and does not—prove.
 
-- 🎯 **Career direction:** SOC Analyst → Threat Intelligence
-- 🎓 **Education:** BSc Information Technology, S.M. Shetty College of Science, Commerce and Management Studies
-- 📘 **Certification:** CompTIA Security+ (SY0-701) — preparing
-- 🤝 **Open to:** Cybersecurity internships and OJT opportunities
+-  **Career direction:** SOC Analyst → Threat Intelligence
+-  **Education:** BSc Information Technology, S.M. Shetty College of Science, Commerce and Management Studies
+-  **Certification:** CompTIA Security+ (SY0-701) — preparing
+-  **Open to:** Cybersecurity internships and OJT opportunities
 
 ## Featured work
 
