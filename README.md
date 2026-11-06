@@ -51,6 +51,8 @@ An academic research project and local defensive-security prototype demonstratin
 
 Practical write-ups covering HTTP traffic and credential visibility, TCP SYN scan analysis, and ARP spoofing detection in controlled lab environments.
 
+**Individual exercises:** [HTTP Traffic Investigation & Credential Visibility](https://github.com/shettysanket06/cybersecurity-learning-log/tree/main/01-http-traffic-investigation) · [TCP SYN Scan Analysis](https://github.com/shettysanket06/cybersecurity-learning-log/tree/main/02-tcp-syn-scan-analysis) · [ARP Spoofing Detection with Wireshark](https://github.com/shettysanket06/cybersecurity-learning-log/tree/main/03-arp-spoofing-detection)
+
 **Tools:** Wireshark · Nmap · Kali Linux · Windows
 
 ## Technical toolkit
