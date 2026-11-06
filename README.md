@@ -4,11 +4,11 @@
 
 I'm a third-year Information Technology student building practical skills in defensive cybersecurity. My current focus is SIEM monitoring, Windows endpoint investigation, security telemetry, network analysis, and incident-response fundamentals.
 
-I learn by building controlled labs, investigating logs and events, documenting findings, and being explicit about what the available evidence does—and does not—prove.
+I learn by building controlled labs, investigating logs and events, documenting findings, and being explicit about what the available evidence does and does not prove.
 
 - **Career direction:** SOC Analyst → Threat Intelligence
 - **Education:** BSc Information Technology, S.M. Shetty College of Science, Commerce and Management Studies
-- **Certification:** CompTIA Security+ (SY0-701) — preparing
+- **Certification:** CompTIA Security+ (SY0-701) → preparing
 - **Open to:** Cybersecurity internships and OJT opportunities
 
 ## Featured cybersecurity projects
@@ -45,7 +45,7 @@ An academic research project and local defensive-security prototype demonstratin
 
 **Stack:** Python · Flask · SQLite · HTML · CSS · JavaScript
 
-*This is a controlled academic prototype—not a production SIEM, SOAR platform, or enterprise security system.*
+*This is a controlled academic prototype not a production SIEM, SOAR platform, or enterprise security system.*
 
 ### 4. [Cybersecurity Learning Log](https://github.com/shettysanket06/cybersecurity-learning-log)
 
