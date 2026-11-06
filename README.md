@@ -41,11 +41,13 @@ A single-endpoint investigation lab using Sysmon, PowerShell, Windows Security a
 
 ### 3. [CyberShield — SOC Threat Intelligence & Incident Response Portal](https://github.com/shettysanket06/cybershield-soc-portal)
 
-An academic research project and local defensive-security prototype demonstrating a simplified SOC workflow: event logging, simulated detection, alert review, incident investigation, remediation, verification, and closure.
+An academic research project and local defensive-security prototype demonstrating a simplified SOC workflow: event logging, simulated detection, alert review, incident investigation, containment, remediation, verification, and closure.
 
 **Stack:** Python · Flask · SQLite · HTML · CSS · JavaScript
 
-*This is a controlled academic prototype not a production SIEM, SOAR platform, or enterprise security system.*
+**Verification:** <img src="https://img.shields.io/badge/verification-passed-brightgreen" alt="Verification passed" /> Author-reported local run on Windows with Python 3.11 (6 November 2026). The project's structural checks and end-to-end Flask test-client lifecycle checks passed, including role separation, simulated attack-input handling, alert generation, and incident lifecycle transitions. [See the recorded results and limitations in the project README](https://github.com/shettysanket06/cybershield-soc-portal#verification).
+
+*This is a controlled academic prototype, not a production SIEM, SOAR platform, or enterprise security system. Passing the project's verification script is not a comprehensive security audit or production-readiness assessment.*
 
 ### 4. [Cybersecurity Learning Log](https://github.com/shettysanket06/cybersecurity-learning-log)
 
